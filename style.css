@@ -1,0 +1,15 @@
+#one {
+	height: 400px;
+	width: 600px;
+}
+#two {
+	height: 400px;
+	width: 600px;
+	background-color: purple;
+}
+#three {
+	height: 400px;
+	width: 600px;
+	background-color: green;
+	color: white
+}
